@@ -219,6 +219,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/img\/b-01.jpg": {
+		"ft": 16384,
+		"iS": 816980,
+		"oA": 0,
+		"oAP": "\/assets\/img\/b-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/bbc.png": {
 		"ft": 32768,
 		"iS": 1040,
@@ -2099,6 +2109,26 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/sq.jpg": {
+		"ft": 16384,
+		"iS": 98276,
+		"oA": 0,
+		"oAP": "\/assets\/img\/sq.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/sq_m.jpg": {
+		"ft": 16384,
+		"iS": 81460,
+		"oA": 0,
+		"oAP": "\/assets\/img\/sq_m.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/templates\/app-2-1.png": {
@@ -7755,6 +7785,24 @@
 		"oAP": "\/pages_\/templates\/template-15.html",
 		"oF": 0
 		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
 	"\/scss\/colors.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -7918,7 +7966,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 516023803,
-	"displayValue": "skazka_html",
+	"displayValue": "sk",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-wonka"
 	},
