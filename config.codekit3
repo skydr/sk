@@ -1982,6 +1982,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/m_01.jpg": {
+		"ft": 16384,
+		"iS": 1502147,
+		"oA": 0,
+		"oAP": "\/assets\/img\/m_01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/macbook-1.png": {
 		"ft": 32768,
 		"iS": 719798,
@@ -2013,6 +2023,96 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_1.jpg": {
+		"ft": 16384,
+		"iS": 98276,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_2.jpg": {
+		"ft": 16384,
+		"iS": 148857,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_3.jpg": {
+		"ft": 16384,
+		"iS": 148857,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_4.jpg": {
+		"ft": 16384,
+		"iS": 127998,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/mus_5.jpg": {
+		"ft": 16384,
+		"iS": 148857,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_6.jpg": {
+		"ft": 16384,
+		"iS": 112332,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_6.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_7.jpg": {
+		"ft": 16384,
+		"iS": 77622,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_8.jpg": {
+		"ft": 16384,
+		"iS": 127998,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_8.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/assets\/img\/mus_9.jpg": {
+		"ft": 16384,
+		"iS": 127998,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/assets\/img\/national-geographic.png": {
@@ -3056,6 +3156,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/vol_01.jpg": {
+		"ft": 16384,
+		"iS": 868887,
+		"oA": 0,
+		"oAP": "\/assets\/img\/vol_01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/warner-bros.png": {
