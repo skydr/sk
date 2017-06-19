@@ -15,16 +15,6 @@
 		"oAP": "\/ajax-email.php",
 		"oF": 0
 		},
-	"\/assets\/img\/2323.jpg": {
-		"ft": 16384,
-		"iS": 848819,
-		"oA": 0,
-		"oAP": "\/assets\/img\/2323.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/assets\/img\/67-01.jpg": {
 		"ft": 16384,
 		"iS": 80383,
@@ -2045,6 +2035,36 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/assets\/img\/mus_10.jpg": {
+		"ft": 16384,
+		"iS": 173820,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_10.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/mus_11.jpg": {
+		"ft": 16384,
+		"iS": 178143,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_11.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/mus_12.jpg": {
+		"ft": 16384,
+		"iS": 101024,
+		"oA": 0,
+		"oAP": "\/assets\/img\/mus_12.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/mus_2.jpg": {
 		"ft": 16384,
 		"iS": 148857,
@@ -2156,6 +2176,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/ob.jpg": {
+		"ft": 16384,
+		"iS": 848819,
+		"oA": 0,
+		"oAP": "\/assets\/img\/ob.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/playstation.png": {
