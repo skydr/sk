@@ -7,7 +7,7 @@
 		"uuidString": "DB5D877B-99F6-407E-A9DB-FB9A556485C9"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25849",
 "files": {
 	"\/ajax-email.php": {
 		"ft": 8192,
@@ -219,6 +219,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/img\/avatara.jpg": {
+		"ft": 16384,
+		"iS": 166103,
+		"oA": 0,
+		"oAP": "\/assets\/img\/avatara.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/ax1s.jpg": {
+		"ft": 16384,
+		"iS": 161788,
+		"oA": 0,
+		"oAP": "\/assets\/img\/ax1s.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/b-01.jpg": {
 		"ft": 16384,
 		"iS": 816980,
@@ -262,6 +282,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/ceph.jpg": {
+		"ft": 16384,
+		"iS": 114128,
+		"oA": 0,
+		"oAP": "\/assets\/img\/ceph.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/cluster_bones.jpg": {
+		"ft": 16384,
+		"iS": 94132,
+		"oA": 0,
+		"oAP": "\/assets\/img\/cluster_bones.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/coca-cola.png": {
 		"ft": 32768,
 		"iS": 3642,
@@ -273,6 +313,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/dopey_zero.jpg": {
+		"ft": 16384,
+		"iS": 98655,
+		"oA": 0,
+		"oAP": "\/assets\/img\/dopey_zero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/facebook.png": {
 		"ft": 32768,
 		"iS": 1888,
@@ -282,6 +332,26 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/fulcrum.jpg": {
+		"ft": 16384,
+		"iS": 187502,
+		"oA": 0,
+		"oAP": "\/assets\/img\/fulcrum.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/fusah.jpg": {
+		"ft": 16384,
+		"iS": 140354,
+		"oA": 0,
+		"oAP": "\/assets\/img\/fusah.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/google.png": {
@@ -462,6 +532,36 @@
 		"iS": 26132,
 		"oA": 0,
 		"oAP": "\/assets\/img\/grid-img-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/grinder.jpg": {
+		"ft": 16384,
+		"iS": 96877,
+		"oA": 0,
+		"oAP": "\/assets\/img\/grinder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/gutta.jpg": {
+		"ft": 16384,
+		"iS": 134334,
+		"oA": 0,
+		"oAP": "\/assets\/img\/gutta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/high_energy.jpg": {
+		"ft": 16384,
+		"iS": 139045,
+		"oA": 0,
+		"oAP": "\/assets\/img\/high_energy.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1982,6 +2082,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/joy_mobility.jpg": {
+		"ft": 16384,
+		"iS": 126650,
+		"oA": 0,
+		"oAP": "\/assets\/img\/joy_mobility.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/m_01.jpg": {
 		"ft": 16384,
 		"iS": 1502147,
@@ -2012,6 +2122,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/madwise.jpg": {
+		"ft": 16384,
+		"iS": 105459,
+		"oA": 0,
+		"oAP": "\/assets\/img\/madwise.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/microsoft.png": {
@@ -2188,6 +2308,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/img\/ozma.jpg": {
+		"ft": 16384,
+		"iS": 94044,
+		"oA": 0,
+		"oAP": "\/assets\/img\/ozma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/playstation.png": {
 		"ft": 32768,
 		"iS": 1094,
@@ -2235,6 +2365,26 @@
 		"iS": 62112,
 		"oA": 0,
 		"oAP": "\/assets\/img\/showreel-img-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/skill.jpg": {
+		"ft": 16384,
+		"iS": 167750,
+		"oA": 0,
+		"oAP": "\/assets\/img\/skill.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/solid_bass.jpg": {
+		"ft": 16384,
+		"iS": 90556,
+		"oA": 0,
+		"oAP": "\/assets\/img\/solid_bass.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3157,6 +3307,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/two_mind.jpg": {
+		"ft": 16384,
+		"iS": 113289,
+		"oA": 0,
+		"oAP": "\/assets\/img\/two_mind.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/video-2.jpg": {
 		"ft": 16384,
 		"iS": 94708,
@@ -3196,6 +3356,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/vlad_cheis.jpg": {
+		"ft": 16384,
+		"iS": 155741,
+		"oA": 0,
+		"oAP": "\/assets\/img\/vlad_cheis.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/vol_01.jpg": {
@@ -3305,6 +3475,16 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/wu_cryple.jpg": {
+		"ft": 16384,
+		"iS": 213957,
+		"oA": 0,
+		"oAP": "\/assets\/img\/wu_cryple.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/plug\/cubeportfolio\/css\/cubeportfolio.css": {
@@ -3525,16 +3705,118 @@
 		"oAP": "\/music\/project13.html",
 		"oF": 0
 		},
+	"\/music\/project14.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project14.html",
+		"oF": 0
+		},
+	"\/music\/project15.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project15.html",
+		"oF": 0
+		},
+	"\/music\/project16.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project16.html",
+		"oF": 0
+		},
+	"\/music\/project17.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project17.html",
+		"oF": 0
+		},
+	"\/music\/project18.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project18.html",
+		"oF": 0
+		},
+	"\/music\/project19.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project19.html",
+		"oF": 0
+		},
 	"\/music\/project2.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/music\/project2.html",
 		"oF": 0
 		},
+	"\/music\/project20.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project20.html",
+		"oF": 0
+		},
+	"\/music\/project21.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project21.html",
+		"oF": 0
+		},
+	"\/music\/project22.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project22.html",
+		"oF": 0
+		},
+	"\/music\/project23.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project23.html",
+		"oF": 0
+		},
+	"\/music\/project24.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project24.html",
+		"oF": 0
+		},
+	"\/music\/project25.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project25.html",
+		"oF": 0
+		},
+	"\/music\/project26.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project26.html",
+		"oF": 0
+		},
+	"\/music\/project27.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project27.html",
+		"oF": 0
+		},
+	"\/music\/project28.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project28.html",
+		"oF": 0
+		},
+	"\/music\/project29.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project29.html",
+		"oF": 0
+		},
 	"\/music\/project3.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/music\/project3.html",
+		"oF": 0
+		},
+	"\/music\/project30.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project30.html",
 		"oF": 0
 		},
 	"\/music\/project4.html": {
@@ -10054,6 +10336,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
