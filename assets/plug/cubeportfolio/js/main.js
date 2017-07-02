@@ -68,8 +68,15 @@
       }
     },
   });
+
+})(jQuery, window, document);
+
+(function($, window, document, undefined) {
+  'use strict';
+
+  // init cubeportfolio
   $('#js-grid-lightbox-gallery2').cubeportfolio({
-    filters: '#js-filters-lightbox-gallery133, #js-filters-lightbox-gallery233',
+    filters: '#js-filters-lightbox-gallery122, #js-filters-lightbox-gallery222',
     layoutMode: 'grid',
     mediaQueries: [{
       width: 1500,
@@ -134,4 +141,5 @@
       }
     },
   });
+
 })(jQuery, window, document);
