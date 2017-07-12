@@ -313,6 +313,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/da.jpg": {
+		"ft": 16384,
+		"iS": 192914,
+		"oA": 0,
+		"oAP": "\/assets\/img\/da.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/dopey_zero.jpg": {
 		"ft": 16384,
 		"iS": 98655,
@@ -2092,6 +2102,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/img\/kailash_project.jpg": {
+		"ft": 16384,
+		"iS": 139756,
+		"oA": 0,
+		"oAP": "\/assets\/img\/kailash_project.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/kayatma.jpg": {
+		"ft": 16384,
+		"iS": 211258,
+		"oA": 0,
+		"oAP": "\/assets\/img\/kayatma.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/m_01.jpg": {
 		"ft": 16384,
 		"iS": 1502147,
@@ -2298,6 +2328,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/nostromosis.jpg": {
+		"ft": 16384,
+		"iS": 178620,
+		"oA": 0,
+		"oAP": "\/assets\/img\/nostromosis.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/ob.jpg": {
 		"ft": 16384,
 		"iS": 848819,
@@ -2329,6 +2369,26 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/psyspace.jpg": {
+		"ft": 16384,
+		"iS": 138242,
+		"oA": 0,
+		"oAP": "\/assets\/img\/psyspace.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/ras_1.jpg": {
+		"ft": 16384,
+		"iS": 187089,
+		"oA": 0,
+		"oAP": "\/assets\/img\/ras_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/reebok.png": {
 		"ft": 32768,
 		"iS": 2024,
@@ -2338,6 +2398,26 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/assets\/img\/shakti_lis.jpg": {
+		"ft": 16384,
+		"iS": 140396,
+		"oA": 0,
+		"oAP": "\/assets\/img\/shakti_lis.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/shantynatty.jpg": {
+		"ft": 16384,
+		"iS": 171070,
+		"oA": 0,
+		"oAP": "\/assets\/img\/shantynatty.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/assets\/img\/showreel-img-01.jpg": {
@@ -2385,6 +2465,16 @@
 		"iS": 90556,
 		"oA": 0,
 		"oAP": "\/assets\/img\/solid_bass.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/sonic_elysium.jpg": {
+		"ft": 16384,
+		"iS": 235846,
+		"oA": 0,
+		"oAP": "\/assets\/img\/sonic_elysium.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3307,6 +3397,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/transdriver.jpg": {
+		"ft": 16384,
+		"iS": 230987,
+		"oA": 0,
+		"oAP": "\/assets\/img\/transdriver.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/two_mind.jpg": {
 		"ft": 16384,
 		"iS": 113289,
@@ -3358,6 +3458,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/assets\/img\/vinshu.jpg": {
+		"ft": 16384,
+		"iS": 144888,
+		"oA": 0,
+		"oAP": "\/assets\/img\/vinshu.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/img\/vlad_cheis.jpg": {
 		"ft": 16384,
 		"iS": 155741,
@@ -3373,6 +3483,16 @@
 		"iS": 868887,
 		"oA": 0,
 		"oAP": "\/assets\/img\/vol_01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/assets\/img\/vplusov.jpg": {
+		"ft": 16384,
+		"iS": 166853,
+		"oA": 0,
+		"oAP": "\/assets\/img\/vplusov.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -3487,6 +3607,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/assets\/img\/yaleeni.jpg": {
+		"ft": 16384,
+		"iS": 142777,
+		"oA": 0,
+		"oAP": "\/assets\/img\/yaleeni.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/assets\/plug\/cubeportfolio\/css\/cubeportfolio.css": {
 		"aP": 1,
 		"bl": 0,
@@ -3538,6 +3668,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/plug\/cubeportfolio\/js\/jquery.cubeportfolio.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/plug\/cubeportfolio\/js\/main-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/plug\/cubeportfolio\/js\/main-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -3819,10 +3958,88 @@
 		"oAP": "\/music\/project30.html",
 		"oF": 0
 		},
+	"\/music\/project31.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project31.html",
+		"oF": 0
+		},
+	"\/music\/project32.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project32.html",
+		"oF": 0
+		},
+	"\/music\/project33.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project33.html",
+		"oF": 0
+		},
+	"\/music\/project34.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project34.html",
+		"oF": 0
+		},
+	"\/music\/project35.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project35.html",
+		"oF": 0
+		},
+	"\/music\/project36.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project36.html",
+		"oF": 0
+		},
+	"\/music\/project37.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project37.html",
+		"oF": 0
+		},
+	"\/music\/project38.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project38.html",
+		"oF": 0
+		},
+	"\/music\/project39.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project39.html",
+		"oF": 0
+		},
 	"\/music\/project4.html": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/music\/project4.html",
+		"oF": 0
+		},
+	"\/music\/project40.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project40.html",
+		"oF": 0
+		},
+	"\/music\/project41.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project41.html",
+		"oF": 0
+		},
+	"\/music\/project42.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project42.html",
+		"oF": 0
+		},
+	"\/music\/project43.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/music\/project43.html",
 		"oF": 0
 		},
 	"\/music\/project5.html": {
